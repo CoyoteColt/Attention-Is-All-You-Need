@@ -14,6 +14,6 @@ In this short guide, we will understand how the main factor that gave life to th
 
 - Our aim is to focus on the attention mechanism.
 - I will implement the attention mechanism with just one head to facilitate understanding.
-- We will not implement the back farward mechanism
+- We will not implement the backpropagation mechanism
 - We will only make one pass (Farward)
 - We will not use frameworks
